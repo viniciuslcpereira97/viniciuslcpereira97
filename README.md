@@ -11,7 +11,7 @@
   </div>
  
   <div text-align="justify">
-    <h2>Let's get in touch</h2>
+    <h2>Let's get in touch!</h2>
     <a href="https://www.linkedin.com/in/vinicius-luiz"><img src="https://img.shields.io/badge/Linkedin-2261b8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/viniciuslcp97"><img src="https://img.shields.io/badge/Twitter-38a2e4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </div>
