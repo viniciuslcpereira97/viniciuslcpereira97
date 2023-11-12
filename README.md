@@ -1,6 +1,6 @@
 # Hey, what's up? :beers:
  
-### I'm backend developer, currently working at [Solfácil](https://github.com/solfacil) building some projects using Elixir :purple_heart:
+### I'm a Software Engineer, currently working at [Nubank](https://github.com/nubank) :purple_heart:
 
 <center>
   <div text-align="justify">
