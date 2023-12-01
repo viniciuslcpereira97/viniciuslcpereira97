@@ -1,6 +1,9 @@
 # Hey, what's up? :beers:
  
-### I'm a Software Engineer, currently working at [Nubank](https://github.com/nubank) :purple_heart:
+I'm a Software Engineer passionate about technology, cars, music and games and I'm currently working at [Nubank](https://github.com/nubank) :purple_heart:
+
+Actually I'm spending part of my free time creating an Elixir open source library called virgil, you can check out it by clicking [here](https://github.com/viniciuslcpereira97/virgil).
+
 
 <center>
   <div text-align="justify">
