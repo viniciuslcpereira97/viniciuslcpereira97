@@ -1,21 +1,18 @@
-# Hey, what's up? :beers:
- 
-I'm a Software Engineer passionate about technology, cars, music and games and I'm currently working at [Nubank](https://github.com/nubank) :purple_heart:
+## Hey there! 👋🍻
 
-Actually I'm spending part of my free time creating an Elixir open source library called virgil, you can check out it by clicking [here](https://github.com/viniciuslcpereira97/virgil).
+I'm Vinicius, a Software Enginner and tech enthusiast on a perpetual quest for the next big challenge in the digital realm and actually working at Nubank.
+
+I'm passionate about technology, cars, music and food!
+
+![fast](https://github.com/viniciuslcpereira97/viniciuslcpereira97/assets/13663398/c0e84d18-eb3b-4537-8a92-8e12bc78dacc)
 
 
-<center>
-  <div text-align="justify">
-    <h2>Some skills</h2>
-    <img src="https://img.shields.io/badge/elixir-634c79?style=for-the-badge&logo=elixir&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/python-f2c53d?style=for-the-badge&logo=python&logoColor=white"/>
-  </div>
- 
-  <div text-align="justify">
-    <h2>Let's get in touch!</h2>
-    <a href="https://www.linkedin.com/in/vinicius-luiz"><img src="https://img.shields.io/badge/Linkedin-2261b8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/viniciuslcp97"><img src="https://img.shields.io/badge/Twitter-38a2e4?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  </div>
-</center>
+## 📬 Let's Connect:
+Feel free to drop by for a virtual chat or to swap code stories! Find me on:
+
+🐦 Twitter: @viniciuslcp
+
+💼 LinkedIn: linkedin.com/in/SeuNome
+
+
+Let's build, break, and innovate together! 🚀✨
