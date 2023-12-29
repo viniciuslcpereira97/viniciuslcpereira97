@@ -31,6 +31,6 @@ Feel free to drop by for a virtual chat or to swap code stories! Find me on:
 
 🐦 Twitter: [@viniciuslcp97](https://x.com/viniciuslcp97)
 
-💼 LinkedIn: [vinicius-luiz](linkedin.com/in/vinicius-luiz)
+💼 LinkedIn: [vinicius-luiz](https://linkedin.com/in/vinicius-luiz)
 
 Let's build, break, and innovate together! 🚀✨
