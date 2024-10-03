@@ -20,6 +20,16 @@ def viniciuslcpereira97 do
       company: :nubank,
       role: "Software Engineer"
     },
+    previous_jobs: [
+      %{
+        company: :solfacil,
+        role: "Software Engineer"
+      },
+      %{
+        company: :ingresse,
+        role: "Software Engineer"
+      }
+    ],
     languages: ~a(Elixir PHP Python Clojure GO)s,
     techs: ~a(Elasticsearch Redis PostgreSQL MySQL Terraform Packer)s
   }
