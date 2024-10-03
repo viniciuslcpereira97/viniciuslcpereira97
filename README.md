@@ -16,7 +16,7 @@ def viniciuslcpereira97 do
       country: "Brazil",
       city: "São Paulo"
     },  
-    current_work: %{
+    current_job: %{
       company: :nubank,
       role: "Software Engineer"
     },
